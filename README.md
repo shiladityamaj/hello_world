@@ -1,2 +1,2 @@
 # hello_world
-Starting to learn this
+What kind of a code is this stuff?
